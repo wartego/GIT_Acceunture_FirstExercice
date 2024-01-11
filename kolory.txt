@@ -1,2 +1,4 @@
 zielony
 biały
+czarny
+niebieski
